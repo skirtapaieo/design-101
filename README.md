@@ -19,6 +19,14 @@ The foundation is a few rules and guidelines, how your brand works.
 - Voice and tone 
 - Print and digital application 
 
+There are some basic best practices: 
+
+- Including essential elements (above)
+- Provide clear instructions 
+- Use real examples 
+- Keep it flexible 
+- Keep it updated 
+
 
 #### 2 Define the system
 
