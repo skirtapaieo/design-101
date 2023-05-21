@@ -9,7 +9,11 @@
 
 #### 1 Brand guidelines  
 
-The foundation is a few rules and guidelines, how your brand works. 
+The foundation is part strategy and part design. 
+
+##### 1.1 Brand guidelines/rules
+
+You need to manage a few rules and guidelines related to how your brand works:  
 
 - Brand story 
 - Logo usage
@@ -19,6 +23,8 @@ The foundation is a few rules and guidelines, how your brand works.
 - Voice and tone 
 - Print and digital application 
 
+##### 1.2 Best practices 
+
 There are some basic best practices: 
 
 - Including essential elements (above)
@@ -26,6 +32,8 @@ There are some basic best practices:
 - Use real examples 
 - Keep it flexible 
 - Keep it updated 
+
+
 
 
 #### 2 Define the system
