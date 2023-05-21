@@ -33,6 +33,16 @@ There are some basic best practices:
 - Keep it flexible 
 - Keep it updated 
 
+#### 1.3 Tools 
+
+| Tool | Purpose | Usability | Collaboration | Cost | Online/Offline |
+| --- | --- | --- | --- | --- | --- |
+| Adobe Suite | Comprehensive design tool for creating all sorts of brand assets. | Steeper learning curve but offers robust features. | Limited real-time collaboration; primarily individual work. | Paid. Various subscription options based on requirements. | Both, but primarily Offline. |
+| Canva | User-friendly design tool, with templates for brand assets. | Very easy to use, even for beginners. | Good real-time collaboration features. | Free version available, paid for more features. | Online. |
+| Google Docs/Slides | For creating simple and straightforward guidelines. | Very easy to use. | Excellent real-time collaboration features. | Free. | Online. |
+| Figma/Sketch | Digital design tool for UI/UX and brand assets. | Moderate learning curve. | Excellent real-time collaboration features in Figma. Sketch has limited collaboration. | Figma: Free for individuals, paid for teams. Sketch: Paid. | Figma: Online. Sketch: Offline. |
+| Frontify | Professional brand management platform for creating and sharing brand guidelines. | Moderate learning curve. | Excellent real-time collaboration features. | Paid. | Online. |
+
 
 #### 2 Define the system
 
