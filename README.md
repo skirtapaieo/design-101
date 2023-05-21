@@ -1,13 +1,13 @@
 # design-101
 
 
-## Minimal design system
+# Minimal design system
 
 
-### Approach 
+## Approach 
 
 
-#### 1 Brand guidelines  
+### 1 Brand guidelines  
 
 The foundation is part strategy and part design. 
 
@@ -44,7 +44,7 @@ There are some basic best practices:
 | Frontify | Professional brand management platform for creating and sharing brand guidelines. | Moderate learning curve. | Excellent real-time collaboration features. | Paid. | Online. |
 
 
-#### 2 Define the system
+### 2 Define the system
 
 Define a few principles including: 
 
@@ -54,4 +54,4 @@ Define a few principles including:
 - Button styles
 - Form styles 
 
-
+###
