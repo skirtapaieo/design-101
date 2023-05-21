@@ -6,3 +6,5 @@
 
 ### Approach 
 
+
+#### Define the system
