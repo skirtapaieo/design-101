@@ -1,7 +1,8 @@
 # design-101
 
 
-- [Minimal Design System](#minimal-design-system)
+# Minimal design system
+
   - [What is it?](#what-is-it)
   - [Approach](#approach)
     - [1. Set Brand Guidelines](#1-set-brand-guidelines)
@@ -12,8 +13,6 @@
     - [3. Create The Design Components](#3-create-the-design-components)
     - [4. Create UI Components](#4-create-ui-components)
 
-
-# Minimal design system
 
 ## What is it? 
 
