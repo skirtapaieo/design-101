@@ -75,7 +75,7 @@ Define a few principles including:
 - Button styles
 - Form styles 
 
-### Create the Design components 
+### 3 Create the Design components 
 
 Using Figma for example, you can create a wide array of components, for each principle, like styles, colors and other elements. 
 
@@ -85,7 +85,7 @@ Using Figma for example, you can create a wide array of components, for each pri
 - Prepare a Figma library 
 - Use version control (Github) 
 
-### Create UI components 
+### C4 reate UI components 
 
 Using Storybook for example, can help you address to challenges with components, stories, browsers, viewports and additional requirements related to, for example, accessibility
 
