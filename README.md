@@ -54,4 +54,19 @@ Define a few principles including:
 - Button styles
 - Form styles 
 
-### Create 
+### Create the Design components 
+
+Using Figma for example, you can create a wide array of components, for each principle, like styles, colors and other elements. 
+
+- Clarify requirements and scope 
+- Create a style guid 
+- Build (design) components 
+- Prepare a Figma library 
+- Use version control (Github) 
+
+### Create UI components 
+
+Using Storybook for example, can help you with the essentials in 
+
+https://storybook.js.org/0930d02ee2c69e80e8eb796e8be8981c/multiverse.png
+
