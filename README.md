@@ -9,6 +9,8 @@
 
 #### 1 Brand guidelines  
 
+The foundation is a few rules and guidelines, how your brand works. 
+
 - Brand story 
 - Logo usage
 - Color palette 
@@ -27,4 +29,5 @@ Define a few principles including:
 - Spacing and Layout
 - Button styles
 - Form styles 
+
 
