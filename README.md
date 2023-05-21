@@ -68,5 +68,5 @@ Using Figma for example, you can create a wide array of components, for each pri
 
 Using Storybook for example, can help you address to challenges with 
 
-!IMG[text](https://storybook.js.org/0930d02ee2c69e80e8eb796e8be8981c/multiverse.png)
+![text](https://storybook.js.org/0930d02ee2c69e80e8eb796e8be8981c/multiverse.png)
 
