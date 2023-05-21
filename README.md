@@ -66,7 +66,7 @@ Using Figma for example, you can create a wide array of components, for each pri
 
 ### Create UI components 
 
-Using Storybook for example, can help you address to challenges with components, stories, browsers, viewports and additional requirements related to accessibility
+Using Storybook for example, can help you address to challenges with components, stories, browsers, viewports and additional requirements related to, for example, accessibility
 
 ![text](https://storybook.js.org/0930d02ee2c69e80e8eb796e8be8981c/multiverse.png)
 
