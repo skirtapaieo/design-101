@@ -11,7 +11,7 @@
 
 The foundation is part strategy and part design. 
 
-##### 1.1 Brand guidelines/rules
+#### 1.1 Brand guidelines/rules
 
 You need to manage a few rules and guidelines related to how your brand works:  
 
@@ -23,7 +23,7 @@ You need to manage a few rules and guidelines related to how your brand works:
 - Voice and tone 
 - Print and digital application 
 
-##### 1.2 Best practices 
+#### 1.2 Best practices 
 
 There are some basic best practices: 
 
@@ -32,8 +32,6 @@ There are some basic best practices:
 - Use real examples 
 - Keep it flexible 
 - Keep it updated 
-
-
 
 
 #### 2 Define the system
